@@ -50,6 +50,6 @@ Pengujian dilakukan dengan memeriksa pembacaan sensor, pengolahan data, klasifik
 
 ## Anggota Kelompok
 
-1. [Nama Anggota 1] — [NIM]
-2. [Nama Anggota 2] — [NIM]
-3. [Nama Anggota 3] — [NIM]
+1. Muhammad Reza Alfiansyah — 24060125130051
+2. Rizqi Ramadhan — 24060125140171
+3. Fathan Mubina — 24060125140170
