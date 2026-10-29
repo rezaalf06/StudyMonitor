@@ -73,7 +73,7 @@ def klasifikasi_gerakan(akselerometer, giroskop):
 
     if skor < 1.5:
         status = "TENANG"
-    elif skor < 4:
+    elif (skor >= 1 and skor < 4):
         status = "SEDANG"
     else:
         status = "TINGGI"
